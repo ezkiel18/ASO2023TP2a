@@ -1,0 +1,8 @@
+¿Qué problemas se puede ver a simple vista?
+En todas las ejecuciones que hice al compilar el programa, se puede ver a simple vista que la cantidad de hamburguesas que come cada hilo
+es distinta en cada ocasion, nunca comen las mismas hamburguesas.
+¿Qué nombre se le dá a esta falla que ocurre en el código que provoca que cada ejecución presente
+resultados diferentes?
+el nombre que se le da a esta falla es Race Conditions
+"Las race conditions surgen cuando estamos compartiendo
+información entre procesos (archivos, variables, recursos, etc)."
